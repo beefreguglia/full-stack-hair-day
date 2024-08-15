@@ -8,7 +8,7 @@ export async function scheduleNew({ id, name, when }) {
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
-        id,
+        id: String(id),
         name,
         when,
       })
