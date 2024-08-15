@@ -1,5 +1,5 @@
 import { scheduleFetchByDay } from "../../services/schedule-fetch-by-day.js";
-import { scheduleShow } from "./schedules-show.js";
+import { scheduleShow } from "./show.js";
 import { hoursLoad } from "../form/hours-load.js";
 
 // Seleciona o input de data

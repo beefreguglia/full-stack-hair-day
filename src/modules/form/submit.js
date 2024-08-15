@@ -1,7 +1,7 @@
 import dayjs from "dayjs";
 
 import { scheduleNew } from "../../services/schedule-new.js";
-import { schedulesDays } from "../schedules/schedules-load.js";
+import { schedulesDays } from "../schedules/load.js";
 
 const form = document.querySelector("form");
 const clientNameInput = document.getElementById("client");

@@ -1,4 +1,4 @@
-import { schedulesDays } from "./schedules/schedules-load";
+import { schedulesDays } from "./schedules/load";
 
 document.addEventListener("DOMContentLoaded", () => {
   schedulesDays();
