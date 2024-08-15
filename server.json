@@ -1,3 +1,9 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1723674994331,
+      "name": "Bernardo Freguglia",
+      "when": "2024-08-14T23:00:00.000Z"
+    }
+  ]
 }
